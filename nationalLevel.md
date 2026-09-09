@@ -94,7 +94,6 @@ https://mp.weixin.qq.com/s/zw7agyD6BtsiHD3kzEDlQg
 
 # ACM-ICPC 国际大学生程序设计竞赛
 
-
 ### 赛事群聊
 
 ![群聊二维码](./img/XCPC/新生群.jpg)
@@ -197,6 +196,10 @@ http://www.mcm.edu.cn/
 3. 理工科、经管类、人文社科类等各专业学生（无专业壁垒，跨专业组队更具优势）；
 
 # ACM 国际大学生程序设计竞赛全球总决赛
+
+### 赛事群聊
+
+![群聊二维码](./img/XCPC/新生群.jpg)
 
 每个学校限制一支队伍参加，参赛队伍从 ICPC 国际大学生程序设计竞赛区域赛中选拔产生，选拔细则见官网(https://icpc.pku.edu.cn/)。
 
@@ -552,6 +555,10 @@ https://chuangxin.dlut.edu.cn/info/1020/14126.htm (校赛 省赛)
 https://jsjds.blcu.edu.cn/info/1041/2043.htm
 
 # 中国高校计算机大赛系列大赛
+
+### 赛事群聊
+
+![群聊二维码](./img/XCPC/新生群.jpg)
 
 ## 团体程序设计天梯赛
 
@@ -1132,6 +1139,10 @@ https://craic.yuntop.com/#/index
 
 # 蓝桥杯全国大学生软件和信息技术大赛
 
+### 赛事群聊
+
+![群聊二维码](./img/XCPC/新生群.jpg)
+
 ## 软件赛 -- C/C++ 程序设计
 
 ### 组别设置
@@ -1216,6 +1227,10 @@ https://ss.dlut.edu.cn/info/1371/29922.htm
 # 微软“创新杯”全球学生科技大赛
 
 # 百度之星程序设计大赛
+
+### 赛事群聊
+
+![群聊二维码](./img/XCPC/新生群.jpg)
 
 ### 官网链接
 

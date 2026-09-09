@@ -100,6 +100,10 @@ https://cy.ncss.cn/
 
 # 蓝桥杯全国大学生软件和信息技术大赛（辽宁省赛）
 
+### 赛事群聊
+
+![群聊二维码](./img/XCPC/新生群.jpg)
+
 ## 软件赛 -- C/C++ 程序设计
 
 ### 比赛时间
@@ -360,6 +364,10 @@ https://chuangxin.dlut.edu.cn/info/1020/14126.htm (校赛 省赛)
 https://jsjds.blcu.edu.cn/info/1041/2043.htm
 
 # 辽宁省大学生程序设计竞赛
+
+### 赛事群聊
+
+![群聊二维码](./img/XCPC/新生群.jpg)
 
 ### 赛事简介
 
