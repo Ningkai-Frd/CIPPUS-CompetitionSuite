@@ -96,7 +96,11 @@ https://mp.weixin.qq.com/s/zw7agyD6BtsiHD3kzEDlQg
 
 ### 赛事群聊
 
-![群聊二维码](./img/XCPC/新生群.jpg)
+![群聊二维码](./img/XCPC/新生群.jpg){width=400px height=600px}
+
+### 招新海报
+![1](./img/XCPC/XCPC2026招新海报.png)
+
 
 基本所有的赛事都会在这个群里面发布公告通知，加这个就够了
 
